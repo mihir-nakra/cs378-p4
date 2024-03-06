@@ -1,0 +1,17 @@
+.recording-view {
+    /* position: fixed; */
+    top: 0;
+    width: 100%;
+    background-color: white;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 1rem;
+}
+
+.next-btn {
+    margin-right: 10px;
+}
+
+.enter-btn {
+    margin-left: 5px;
+}
